@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Ignore dependency folders
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.DS_Store
